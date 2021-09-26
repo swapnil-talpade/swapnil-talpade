@@ -9,7 +9,7 @@ I am software engineer with keen interest in web-development.
 <p>
 <a align= "center" href="https://github.com/swapnil-talpade">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil-talpade&theme=radical">
-<img align="right" height="350" width="400" src="../assets/photo.png" /> </a>
+<img align="right" height="350" width="400" src="https://pbs.twimg.com/profile_images/1403621683093590016/2n1yuKbK_400x400.jpg" /> </a>
 </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=swapnil-talpade&count_private=true&theme=radical&show_icons=true" />
