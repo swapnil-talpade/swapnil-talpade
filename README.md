@@ -12,7 +12,6 @@ Hi
 
 <div align="center">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil-talpade&theme=merko">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=swapnil-talpade&count_private=true&theme=merko&show_icons=true" />
 </div>
 <hr>
 
