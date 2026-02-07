@@ -10,10 +10,10 @@ Hi
 <img src="https://komarev.com/ghpvc/?username=swapnil-talpade&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-talpade" /> </p>
 </p>
 
-<div align="center">
+<!-- <div align="center">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnil-talpade&theme=merko">
-</div>
-<hr>
+</div> -->
+<!-- <hr> -->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
